@@ -1,0 +1,129 @@
+{
+  "as_of_block": 429473284,
+  "as_of_utc": "2026-02-07T05:09:02+00:00",
+  "doc_snapshot_utc": "2025-11-07T23:59:59+00:00",
+  "expected_sources": {
+    "financial_summary_json": {
+      "snapshot_date": "2025-11-07",
+      "usdc_spending": {
+        "description": "USDC treasury outflows",
+        "recipients": [
+          {
+            "amount_usdc": "3360.20",
+            "recipient": "0x801b9a783fc377a0c75f8ab50844fffbbba8b157",
+            "transaction_count": 2
+          },
+          {
+            "amount_usdc": "3360.20",
+            "recipient": "0xc6cb758b9f8a3d4aee785d1953335cfc29fbdfca",
+            "transaction_count": 2
+          },
+          {
+            "amount_usdc": "2107.62",
+            "recipient": "0xf8b343b34b646b5258d2000f5996261a8f807bc3",
+            "transaction_count": 4
+          },
+          {
+            "amount_usdc": "881.08",
+            "recipient": "0x838d2d865ebd2b2d6d2ebe1f8b5faabc5a452bd7",
+            "transaction_count": 2
+          },
+          {
+            "amount_usdc": "305.00",
+            "recipient": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae",
+            "transaction_count": 1
+          },
+          {
+            "amount_usdc": "0.00",
+            "recipient": "others",
+            "transaction_count": 28
+          }
+        ],
+        "spending_categories": {
+          "animator_payment": {
+            "amount_usdc": "305.00",
+            "description": "Animator via LI.FI bridge",
+            "percentage": "3%",
+            "recipient": "0x1231deb6f5749ef6ce6943a275a1d3e7486f4eae"
+          },
+          "aws_payment": {
+            "amount_usdc": "881.08",
+            "description": "AWS infrastructure payment",
+            "percentage": "9%",
+            "recipient": "0x838d2d865ebd2b2d6d2ebe1f8b5faabc5a452bd7"
+          },
+          "dane_travel_and_plugin": {
+            "amount_usdc": "2107.62",
+            "description": "Dane flights + plugin development",
+            "percentage": "21%",
+            "recipient": "0xf99e87b1fadfe58ed0e03a1f4ae8e3015f0f8569"
+          },
+          "legal_fees": {
+            "amount_usdc": "6720.40",
+            "description": "Gordian legal services",
+            "percentage": "67%",
+            "recipient": "0x801b9a783fc377a0c75f8ab50844fffbbba8b157"
+          }
+        },
+        "total_amount_usdc": "10014.10",
+        "total_transactions": 39,
+        "total_unique_recipients": 6,
+        "treasury_wallet": "0x04e334ff13C71488094E24F4faB53a8FAfe2f9bb"
+      }
+    }
+  },
+  "rpc_url": "https://arb1.arbitrum.io/rpc",
+  "tokens": {
+    "USDC": {
+      "balance_reconciles": true,
+      "current_balance": "27.733256",
+      "current_balance_raw": "27733256",
+      "decimals": 6,
+      "doc_snapshot": {
+        "inflow_count": 19,
+        "inflow_total": "10541.833256",
+        "inflow_total_raw": "10541833256",
+        "net": "527.733256",
+        "net_raw": "527733256",
+        "outflow_count": 20,
+        "outflow_total": "10014.1",
+        "outflow_total_raw": "10014100000"
+      },
+      "inflow_count_total": 19,
+      "inflow_total": "10541.833256",
+      "inflow_total_raw": "10541833256",
+      "net": "27.733256",
+      "net_raw": "27733256",
+      "outflow_count_total": 22,
+      "outflow_total": "10514.1",
+      "outflow_total_raw": "10514100000",
+      "token_address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831"
+    },
+    "USDC.e": {
+      "balance_reconciles": true,
+      "current_balance": "0",
+      "current_balance_raw": "0",
+      "decimals": 6,
+      "doc_snapshot": {
+        "inflow_count": 0,
+        "inflow_total": "0",
+        "inflow_total_raw": "0",
+        "net": "0",
+        "net_raw": "0",
+        "outflow_count": 7,
+        "outflow_total": "0",
+        "outflow_total_raw": "0"
+      },
+      "inflow_count_total": 0,
+      "inflow_total": "0",
+      "inflow_total_raw": "0",
+      "net": "0",
+      "net_raw": "0",
+      "outflow_count_total": 9,
+      "outflow_total": "0",
+      "outflow_total_raw": "0",
+      "token_address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+    }
+  },
+  "treasury": "0x04e334ff13c71488094e24f4fab53a8fafe2f9bb"
+}

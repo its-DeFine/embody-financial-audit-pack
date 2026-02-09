@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+# Scripts in this repo can regenerate these artifacts locally.
+reconciliations/2026-02-07/usdc_transfers.csv
+reconciliations/2026-02-07/usdc_outflows_by_recipient.csv
+reconciliations/2026-02-07/payouts_tx_level.csv
+reconciliations/2026-02-07/payouts_by_recipient.csv
+reconciliations/2026-02-07/tx_fees_deduped.csv
+reconciliations/2026-02-07/computed_totals.recomputed.json
+

@@ -1,0 +1,25 @@
+{
+  "as_of_utc": "2026-02-07T05:18:29Z",
+  "rpc_url": "https://arbitrum-one.publicnode.com",
+  "ticketbroker_sender_info": {
+    "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e": {
+      "v0": "0",
+      "v1": "3941",
+      "v2": "0",
+      "v3": "0"
+    },
+    "0xf2f5fccddf50c9e86c1bb171c07041ff0c612f2d": {
+      "v0": "0",
+      "v1": "0",
+      "v2": "0",
+      "v3": "0"
+    }
+  },
+  "wallet_balances_eth": {
+    "0x04e334ff13c71488094e24f4fab53a8fafe2f9bb": "1.425869553552092145",
+    "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37": "0.007724857652366027",
+    "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e": "5.3E-7",
+    "0xa03113bab8d4ebe5695591f60011741233e8b82f": "0.052431262379670204",
+    "0xf2f5fccddf50c9e86c1bb171c07041ff0c612f2d": "0.000049574123280001"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "description": "LPT token conversions to ETH and USDC",
+  "conversion_date": "2025-08-29",
+  "conversions": [
+    {
+      "conversion_type": "LPT_to_ETH",
+      "lpt_sold": "3330.000000000000",
+      "eth_received": "5.389621101700",
+      "average_rate_eth_per_lpt": "0.001618553844",
+      "note": "Sold via Uniswap/DEX"
+    },
+    {
+      "conversion_type": "LPT_to_USDC",
+      "lpt_sold": "1473.800000000000",
+      "usdc_received": "10274.565912",
+      "average_rate_usdc_per_lpt": "6.971201283",
+      "note": "Sold via Uniswap/DEX"
+    }
+  ],
+  "total_lpt_converted": "4803.800000000000",
+  "discrepancy": {
+    "lpt_received_from_safe": "1100.000000000000",
+    "lpt_converted": "4803.800000000000",
+    "gap": "-3703.800000000000",
+    "status": "Outstanding - requires historical wallet audit"
+  }
+}

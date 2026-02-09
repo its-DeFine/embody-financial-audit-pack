@@ -1,0 +1,117 @@
+{
+  "phase": 3,
+  "description": "Direct ETH payouts from treasury wallet",
+  "treasury_wallet": "0x04e334ff13C71488094E24F4faB53a8FAfe2f9bb",
+  "total_transactions": 12,
+  "total_amount_eth": "3.465000000000",
+  "transactions": [
+    {
+      "transaction_hash": "0x146979df78b6280422a0e1b73f6f15d25a2ba7c3909b21e40817030ed2d862b4",
+      "block_number": 373629636,
+      "timestamp": 1756496370,
+      "date": "2025-08-29T19:39:30Z",
+      "recipient": "0x2f3f5eb42df57e758b478515f6849fa0c83d1580",
+      "amount_eth": "0.010000000000",
+      "gas_fee_eth": "0.000000223580"
+    },
+    {
+      "transaction_hash": "0x2e869d84a090b990f0b1a32126ca06a3b7c8862f6d23c98235c052314b22ad91",
+      "block_number": 374200391,
+      "timestamp": 1756638902,
+      "date": "2025-08-31T11:15:02Z",
+      "recipient": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+      "amount_eth": "0.500000000000",
+      "gas_fee_eth": "0.000000215400"
+    },
+    {
+      "transaction_hash": "0x50b696771e969057c3820f8af4068d20cd6684604a3fa6f589ee00c0afd8e724",
+      "block_number": 381887716,
+      "timestamp": 1758559859,
+      "date": "2025-09-22T16:50:59Z",
+      "recipient": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+      "amount_eth": "0.100000000000",
+      "gas_fee_eth": "0.000083747551"
+    },
+    {
+      "transaction_hash": "0x3f15b95bf62cc8e7acb068ee57ffaa2aa1d46936efd9bb7c8ea2762be2bc84b4",
+      "block_number": 381888768,
+      "timestamp": 1758560121,
+      "date": "2025-09-22T16:55:21Z",
+      "recipient": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+      "amount_eth": "0.200000000000",
+      "gas_fee_eth": "0.000067571506"
+    },
+    {
+      "transaction_hash": "0xa78d3ee82e17fd6a8ee6355279e927575cb63f7559b91fd7a52ee8ab5a999a88",
+      "block_number": 381893517,
+      "timestamp": 1758561306,
+      "date": "2025-09-22T17:15:06Z",
+      "recipient": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+      "amount_eth": "0.125000000000",
+      "gas_fee_eth": "0.000040611847"
+    },
+    {
+      "transaction_hash": "0x0a207adcaeaa99be69ec52394afd1440f168bd77e61ea3b1937d1da2be8819c7",
+      "block_number": 382374487,
+      "timestamp": 1758681337,
+      "date": "2025-09-24T02:35:37Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.010000000000",
+      "gas_fee_eth": "0.000000414138"
+    },
+    {
+      "transaction_hash": "0xc7ed5bf659bfd4f1973b77fd2f53b260bcb42277d4e06bb32bccd14df32759ae",
+      "block_number": 382890626,
+      "timestamp": 1758809982,
+      "date": "2025-09-25T14:19:42Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.050000000000",
+      "gas_fee_eth": "0.000002113776"
+    },
+    {
+      "transaction_hash": "0xa144eaa9944036a951db9da886b1d94dccb5eb69354ca037b4dc294c22daf052",
+      "block_number": 383250429,
+      "timestamp": 1758899635,
+      "date": "2025-09-26T15:13:55Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.070000000000",
+      "gas_fee_eth": "0.000000613664"
+    },
+    {
+      "transaction_hash": "0x9f240ccc3f11897568b039c5951092932454c0b6fc24b7c5a47251ef5230ccf3",
+      "block_number": 384416243,
+      "timestamp": 1759190658,
+      "date": "2025-09-30T00:04:18Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.200000000000",
+      "gas_fee_eth": "0.000000213750"
+    },
+    {
+      "transaction_hash": "0x4827206fd8dcd24ad273a1a11f20e11b3281681f12c2603996ae17a11b1c9d3b",
+      "block_number": 386395663,
+      "timestamp": 1759684858,
+      "date": "2025-10-05T17:20:58Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.500000000000",
+      "gas_fee_eth": "0.000000218480"
+    },
+    {
+      "transaction_hash": "0x7b22fd56b1038d20a64b2e63fec83a77904467876402b2e9cf6593cb1f58f90c",
+      "block_number": 388129078,
+      "timestamp": 1760117418,
+      "date": "2025-10-10T17:30:18Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "0.400000000000",
+      "gas_fee_eth": "0.000000930525"
+    },
+    {
+      "transaction_hash": "0xf0d68fc571f02ed138d9863ab707065760e274f11360ea6ba7f5ea451ea5a45f",
+      "block_number": 394085526,
+      "timestamp": 1761605062,
+      "date": "2025-10-27T22:44:22Z",
+      "recipient": "0x0c7ca5da3b10fa345c5713c5a14479a3af65ac37",
+      "amount_eth": "1.300000000000",
+      "gas_fee_eth": "0.000000212080"
+    }
+  ]
+}

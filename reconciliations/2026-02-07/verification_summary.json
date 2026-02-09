@@ -1,0 +1,764 @@
+{
+  "overall": {
+    "ledger_rows": 4992,
+    "unique_tx_hashes": 4971
+  },
+  "phase3_eth_transfers": {
+    "expected_rows": 1248,
+    "ledger_rows": 1248,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_receipts": [],
+    "missing_txs": [],
+    "rounding_delta_count": 884,
+    "rounding_deltas": [
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x78f8b957249a96b4f08374f892aba41d899a413e3c46c208ce2090eb57b57f4c"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x272a79a0c09f1d7b638f202930b322085f0905cbf7bf48ca73e1dd7971a943c5"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xf71fe9138d51db8c125f56ef6ab56af6cdb5a7e710d862133f198ac7efde74bd"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xf971b6d0cfe584c25200bcf05e491e019d9098732e4ada5c950f4c6b344a190a"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xee3c102c336e4717e3a5d09d0bd998f4eb7689488e15b9392e6bc380edcf0730"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x2bb91d8d59980f89691be341a7291eb20be0fa6a812dd22615097894970263ff"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xc831386dc002bb08165cb26de62278a79820e532e10e5df32261cb1054d65347"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "22570763547000000",
+        "got_value_wei": "22570763546666666",
+        "tx_hash": "0xe36ce66abb5ec13a311a95f0ddb8fe71e0eada472870461c676c237d5bd74cf1"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "21976514317000000",
+        "got_value_wei": "21976514316666666",
+        "tx_hash": "0x37a95b03af5558e0a151d1e5bfe283967cf0049fa5b182b650a6ba12d7915d8a"
+      },
+      {
+        "delta_wei": "333333",
+        "expected_value_wei": "22560056353000000",
+        "got_value_wei": "22560056353333333",
+        "tx_hash": "0xb949695e181c49e279b0ef576423c6a3505c18f625550934f098f31b788cb0be"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x531981570eb3f797c18e2f5dd6b05c29d6e735ddf547655797a7d9f10698abe9"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x16efdfd3617dd64ad67b8ea753bc6c56dbc5444e5b9ee49fc64a1e181fcdee22"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x6370fef6e8e9d42b97f8a63d0c3a078858ef72d2ec6cd2d41f52717e2ef960ae"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x9f9250ce0ca5cf7ce08e53337d9a642657f87dee2d6047e72f8138a52e9b6d28"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xdcd3c242a902b0595a1fe353038cfbb241b9d8006352e242ef72558d430d5356"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1017183367000000",
+        "got_value_wei": "1017183366666666",
+        "tx_hash": "0x382a51f4361f3d703287375828e35661e80bdee6ece50ba6afc23ec06b14242d"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xfcccf6b5b7394bc61e0b6fafe3c26453640e64c047c6ca2e49a504fea0fa9070"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x7c4bb5d46b37cad7c69f7322dc4992a1c2f0d7fe7aeec136f8ae4a0a832ff29f"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x662c18652b97525cb60d0e28389be1f3dd48dee2d1fddee0650805ef0ec1074f"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xeb8c4b83f8b682412bfa65c7ea1bae13aea9f60afc5d4275439bc9edeee40439"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x5537477786347c4cd9d5afff76146318afbc24e645c6444128b69a607925f332"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x2d6bf5df97ed1829a1200c79e928cd9e9be03edc72672a914a6ed0a0aaa4c86a"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x0882ff45390b502b4779828b9e324ff56dc2ae600971aadaa15b71a87733cda0"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x5d086762ad0476871c44cabcbf83d368df293d587bfeb95bf404794694ea7c14"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x21e825a77d96e60156b10ae68c0e8a51e26519a90f2ee47031143b03a3f94781"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x56c6998199dd24633bd41fcff394dc39dfb5ea8502f5ca1e9d39a2c57dc85fd2"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xec474fef077c135f37e08792e010c9be30caa3afc9af582c1da4c2ba4e089198"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x740633c3be19bb486e9e5ecdc7b5901db575597f41c1f335f0297262ab0fdff9"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xfb157e46ca4afa2fb719716a6557e261fd2ba6a255d9eddbb6d944ec6442e5db"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x539e50dfad20c5bda320afbf36f6b55a96a27f7cea407f1117d24093dd82412c"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x97f7d47ec2aeb594a13ccb6adb2b9560bc4c40e1a3bef574d032adf0ba822960"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xc8bcf71c5086f93da91dc8e25923c80b7c35fbc40c26ce4769afd61b2d72d065"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x8849f6a8affb0a23a4b5f1cf36a44fd1b403a9d2ddb20c457b5ad92b9e347d40"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x1ba2cac5ce69e9d8426819ad3da0103b577e0d4943d21bcc467641cacc0928b7"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xf322a1091aa8ae7f5fb2417c6e9a5411375401f945f1165aa4b48c8e668feeec"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xf8194a84d8564e1976f3a273a238ff181c4f9e68817532d003c3fd1aefeebb03"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x98c143d0cc49e1cc15aa20b55ad6b8b0161fa43a368ee7a62ad3c08b3f7e448f"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x45fe65291f956310d4e6eae9f3731b4855171f611e8efade33e737be566d7f8c"
+      },
+      {
+        "delta_wei": "333333",
+        "expected_value_wei": "1006476173000000",
+        "got_value_wei": "1006476173333333",
+        "tx_hash": "0x22c93ae536e0386cd30eb5e0a5de0fd4c0e1cb48958b89ce1b6fe4e78db9cfcb"
+      },
+      {
+        "delta_wei": "333333",
+        "expected_value_wei": "1006476173000000",
+        "got_value_wei": "1006476173333333",
+        "tx_hash": "0xf780e76c3657082143b096de29539c92e797af66f3f8155e4ce7763eaeda13c4"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x9dae80b6b6e32e06b8a579a7feb5f5cfd53b805b50868782e322d217857fcfc9"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x3e71c13e8edbbe7dbd25cfb17b1ede46ad6d78d03ec5e5a4b0f1390dc4515c6e"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x767835636d7f169bb703b102b9547b59b0dbe2ff30ae4e0f0f298182f976e549"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x13e79a4d13b0cf8aedbef82608417b74e6fe77c967ef49e120234a4a59854118"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xa50a2be9ecb11772abe5e95909115d084ce3133ab48970dcb4b1ee5bdc8db29a"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x752182c76194d96fe39c03ea96894097acf43235b184683d255d33f770564fc5"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x05e6a8e569761db0af810b804a8f25323e2814c71d5f9f804a8d1ffd35d22b0d"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0xfa59511a8e3ac86b46977fccca753ecb3c655ec7ab14a98d0533e73a49a20361"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x09b423623833ee3647894e99ff5b38cfb28c0bccdc44d9843809a0e5ebca2ca0"
+      },
+      {
+        "delta_wei": "-333334",
+        "expected_value_wei": "1001122577000000",
+        "got_value_wei": "1001122576666666",
+        "tx_hash": "0x3f80559b307ae15284d7661e310f933c2122df753c6b01f848d34e6f8d8804bc"
+      }
+    ],
+    "rounding_deltas_max_abs_wei": 333334,
+    "tx_count": 1248
+  },
+  "ticket_dec31": {
+    "expected_rows": 16,
+    "ledger_rows": 16,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_receipts": [],
+    "rounding_delta_count": 0,
+    "rounding_deltas": [],
+    "rounding_deltas_max_abs_wei": 0,
+    "tx_count": 3
+  },
+  "ticket_jan22": {
+    "expected_rows": 11,
+    "ledger_rows": 11,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_receipts": [],
+    "rounding_delta_count": 0,
+    "rounding_deltas": [],
+    "rounding_deltas_max_abs_wei": 0,
+    "tx_count": 3
+  },
+  "ticket_manual": {
+    "expected_rows": 1,
+    "ledger_rows": 1,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_receipts": [],
+    "rounding_delta_count": 0,
+    "rounding_deltas": [],
+    "rounding_deltas_max_abs_wei": 0,
+    "tx_count": 1
+  },
+  "ticket_phase1_2": {
+    "expected_rows": 3716,
+    "ledger_rows": 3716,
+    "mismatch_count": 0,
+    "mismatches": [],
+    "missing_receipts": [],
+    "rounding_delta_count": 90,
+    "rounding_deltas": [
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xd20f12058289207e6b1ab61a84647a7abb130f821543b0c37c40e7c57e3a25ad"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xddb76aa4b9fb1c73fe43876a2c131c13d430133f8c76c6460108bc54b6785ce2"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x0aca94dc0e6dde98abff3f40f45eee2165414498daf05e57593511502c708041"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x623b43802238ddeda166b870011f8d23f49140af4f34d539b0c19977d661a9eb"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x43c182dea9f0083ea62cac599727f333c423177fa2895464edbd98b8f8eb14f8"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x4b18a104bd96e9b803086cd60470a9cfe23230f8731f830277a32fe9f53ae5dc"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x04d67d076143680477d78b496a0279357529d7853b59bb2e1671458dea55925a"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x5d0462a456261083727ce1c10be1d9ca1b8694ccef17fdf9b3812c205198e7a0"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xd0e88bce8a15e50bde448c7422449e97f2a8909fae7146ffe12fc3a43997fd04"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x35b644a912824354237c3d9be5b91c6a3ef4fdc394b1244baa85d058e5b6bd59"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xf799aa56d979e71922c2229b820b4c1122abaabfd2994a03b081b6ace867c7e7"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x459130f3374bc97778a2fc853de523ed71a7d45a7fcec5ab2cc16b9878dce876"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xd38feac6817f984a57feb3206dc403b4fe005b2b2d34826337cd0b0ecb566535"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x50daeb7554937f0a827b05cce4f688e6a528f90514f06974ca0487be92fee690"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x1ef7e0531c7420a446bb9010b309f16dbc4985c145c5dc9111dd93ef08bf482e"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x6976593ea09be07071508c4cc3383686c768a949094074dda8a6b60b4ecdd8d9"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xa258db6ac21aad98ce659e9a0877e3392a4a30004216e52f0cf9b9d382e86b30"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xa7259a26eca6a93ecd723b5e4414f035999c430f8a14be30316b1ffc4814f86b"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x675db3cb054c41cecf8a9419130d44c029ec251c0d96b683b9f3c3697e68de16"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xf4fe30744d35b73aca5185d0744a3f56d6c7014f827060fd5488fb85a677e334"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x52efd33553c05b3ef1f06ee94c9023671b12daa471a5c4ee9607ff07935a76d6"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x24dda5c8270387ab699b545b43c66e816d373cb3f80846650eae9ab600152481"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xe85fb86446b0602ae5ad0f35aea0d79c49b2bd430a85ed8b11b14f7350ffe6e0"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x1ac94d0b6aeaea58c034b973e2562c1da1bc9fd11a7ccf1d269d9552bee14278"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x9e4b17cff255bc633bf2d3c9e9acc34f23223f0b9c6e4ac0f04f05a034514e23"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x5a0f967c85ec8e07399dbde67783e0ca0e3148ee0d047894c9d2927f0b0c6411"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xaf7f0406324e3ebe8f1fd24a20ef23bb70c3a2511a5644a3936f5e614a7411b7"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x411fe02da4e9f56e0f4897ae9253bdaddec8ad796b0624d84ca2abdeb564d7cb"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x19e3f179111016ac3aa440d84f2fea615fcafb874abf8c34224b5652858066d6"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x166b963083f5fcf5710726ef9cf85b834ff456b7938b7d873c455e93f1398729"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x158557384918c529b59f0b2068b81bf3cd27c036f6a75018f397a4d0529e22d8"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x1fb6b8a078ceb96a5fbb6ffb5adacac0f8015df3460671719c26d7c7c7298b76"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x7d149adbd5cdb992932e027d8b82650cd7db0dc6a225fed04d71de608e1b5f6d"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x0098e43bd814cb21f5ffb718ddb37f17472bfdf79979131c1dfbce493bc8d3d6"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xfb24f79b78242f07cd438c5225c854c696f733d2e72257f6a151c2a0ec0d8d26"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x14f89ad1be367d4d98ee2545f433a94739f4e3fd1a66a530ff27aa7bb25902fa"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x937b2fab27480e36d11ea3b46999ead0e8665c748edaec4b20571c9c6bb1b258"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x9fd425e0a5ec8d7754f0fa87bb20b23eb5a670cb5f620f271f2fb1aeacfdb4dd"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x6c6c1d4235b7fe475bba729c2a329eb224b32985689e49eb909679f7382d7060"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x7e844afc52ef4dbdfb297d0b4d3cb07cfc575e56769768d5b8522ce45ae2f19b"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x0ed090a250038e99ee394e64abc0b4feeb057766fa9f1a08b019726bb7b70b15"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x1671c62c1c60cf05d34b706ea790067b387224de48dfdb0c652ed48b2fd7ea7e"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xe99102384f7cb7fe24de6a52a8c89cd2c93632a6809bc132e3abb2ecf158b07c"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xeeb654cb1a394b0ec591f336560a7edfb09346c6f95724ea306c0f85cafbca2a"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x3f09b490d6881e2b02dbf1425eb3ac2365196459946109336d57aec30a90d753"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xeb9450fc36c408b2bf319c4f5dbc43bd327329bc1b86572e9faea420da685b72"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xaec77ea8a1e3816f91c75554647ddc74c8158c5f392c27bb9e82d3ce390ab7f3"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x44313d4dd6025b695c5199f72dc23bff553292e9547fd03faf4d55ca1b0d8dcd"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0x57ba6fc10b058fff75b6f41dc7d144a9084991c3a20b35ce1710dcbd7c38127d"
+      },
+      {
+        "delta_wei": "-230000",
+        "expected_amount_wei": "389941523000000",
+        "got_amount_wei": "389941522770000",
+        "recipient": "0xa03113bab8d4ebe5695591f60011741233e8b82f",
+        "sender": "0x8a8053c21696f27ed305a03bd1efc5d068d91d0e",
+        "tx_hash": "0xff81cc0357cb40d029502c772796bfb2bc936c934135af72c5d057346bf6e7a3"
+      }
+    ],
+    "rounding_deltas_max_abs_wei": 466877,
+    "tx_count": 3716
+  }
+}

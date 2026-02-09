@@ -1,0 +1,18 @@
+{
+  "funding_flows": {
+    "eth_safe_exec_transfers": "0.54",
+    "eth_testing_wallet_returns": "0.9062367330855543",
+    "eth_treasury_disbursements": "3.465",
+    "lpt_safe_transfers": "1100",
+    "row_count": 23
+  },
+  "lpt_conversions": {
+    "lpt_out_total": "4803.8",
+    "row_count": 10,
+    "usdc_in_total": "10274.565912",
+    "weth_burn_total": "5.163589599816039683",
+    "weth_gross_in_total": "7.804046730779186128",
+    "weth_other_out_total": "2.640457130963146445"
+  },
+  "rpc_url": "https://arb1.arbitrum.io/rpc"
+}

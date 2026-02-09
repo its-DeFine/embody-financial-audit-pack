@@ -2,6 +2,14 @@
 
 This repository is a **public on-chain audit pack** (single-commit snapshot) that supports independent verification of key Embody incentive-program treasury operations on Arbitrum.
 
+## Coverage Window
+
+This audit pack is **generated as-of 2026-02-07**, but it is designed to cover the **full incentive program from inception through that date**, including:
+- Phase 1/2 TicketBroker payouts (on-chain event logs, sender `0x8a80…1d0e`)
+- Phase 3 direct ETH payouts (native transfers, sender `0x0c7c…ac37`, verified from a tx-hash list)
+- Later payout runs (Dec 22, Dec 31, 2025; Jan 22, 2026)
+- Legacy funding flows + LPT conversions + USDC treasury reconciliation
+
 What this repo is:
 - A reproducible, source-linked packet focused on **on-chain verifiability** (tx hashes, logs, and RPC-verifiable totals).
 
@@ -22,4 +30,3 @@ What this repo is not:
 
 - Recipient-level payout tables are intentionally **not** committed in this public pack.
 - Verification is performed from on-chain receipts/logs and from a tx-hash list for native ETH transfers where logs do not exist.
-

@@ -11,6 +11,17 @@ This packet is a public, single-commit snapshot intended to support **independen
 - **LPT conversions** (LPT -> USDC and LPT -> “ETH-like” via WETH flows)
 - **USDC treasury reconciliation** (Transfer logs + `balanceOf` checks)
 
+## Coverage Window (Inception → 2026-02-07)
+
+Although this packet is generated **as-of 2026-02-07**, it covers the **full incentive program from inception through 2026-02-07**, including:
+- Phase 1/2 payouts via TicketBroker `WinningTicketRedeemed` logs (sender `0x8a80…1d0e`)
+  - Earliest redemption example (Phase 1 testing): 2025-05-15 tx `0xd305a04c5a57fa86167202d266c44281f077c3cb07d1ed06e1c9c139b1cd1ed0`
+- Phase 3 payouts via direct ETH transfers from the backend payout wallet `0x0c7c…ac37` (verified from a tx-hash list)
+- Post-snapshot payout events included in the totals:
+  - 2025-12-22 (manual TicketBroker payout)
+  - 2025-12-31 (TicketBroker payout run)
+  - 2026-01-22 (TicketBroker payout run)
+
 ## Scope + Redaction Policy
 
 This public audit pack intentionally does **not** publish:
@@ -88,4 +99,3 @@ Outputs (written next to the script):
 - `usdc_transfers.csv` (generated locally; gitignored in this public pack)
 - `usdc_outflows_by_recipient.csv` (generated locally; gitignored)
 - `usdc_verification_summary.json`
-

@@ -1,6 +1,6 @@
 # Reconciliations
 
-This folder contains dated on-chain reconciliation packets.
+This folder contains dated on-chain reconciliation packets. Each packet is generated "as-of" a given date, but may cover a broader window of history (for example, the 2026-02-07 packet covers the incentive program from inception through 2026-02-07).
 
 ## 2026-02-07
 

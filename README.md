@@ -4,7 +4,7 @@ This repository is a **public on-chain audit pack** (single-commit snapshot) tha
 
 ## Coverage Window
 
-This audit pack is **generated as-of 2026-02-07**, but it is designed to cover the **full incentive program from inception through that date**, including:
+This audit pack is **generated as-of 2026-02-07**, but it is designed to cover the **full incentive program from inception (first on-chain payouts in 2025-05-15) through that date**, including:
 - Phase 1/2 TicketBroker payouts (on-chain event logs, sender `0x8a80…1d0e`)
 - Phase 3 direct ETH payouts (native transfers, sender `0x0c7c…ac37`, verified from a tx-hash list)
 - Later payout runs (Dec 22, Dec 31, 2025; Jan 22, 2026)

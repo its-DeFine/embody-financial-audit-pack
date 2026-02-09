@@ -11,7 +11,7 @@ This packet is a public, single-commit snapshot intended to support **independen
 - **LPT conversions** (LPT -> USDC and LPT -> “ETH-like” via WETH flows)
 - **USDC treasury reconciliation** (Transfer logs + `balanceOf` checks)
 
-## Coverage Window (Inception → 2026-02-07)
+## Coverage Window (2025-05-15 → 2026-02-07)
 
 Although this packet is generated **as-of 2026-02-07**, it covers the **full incentive program from inception through 2026-02-07**, including:
 - Phase 1/2 payouts via TicketBroker `WinningTicketRedeemed` logs (sender `0x8a80…1d0e`)
